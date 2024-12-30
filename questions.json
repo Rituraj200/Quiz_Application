@@ -1,0 +1,83 @@
+{
+    "Python": [
+        {
+            "question": "Which of the following is used to create a new Python list?",
+            "options": ["[]", "{}", "()"],
+            "answer": "[]"
+        },
+        {
+            "question": "Which of the following is not a valid Python data type?",
+            "options": ["int", "float", "character"],
+            "answer": "character"
+        },
+        {
+            "question": "What does the len() function do in Python?",
+            "options": ["Returns the length of a string", "Returns the sum of a list", "Converts a string to lowercase"],
+            "answer": "Returns the length of a string"
+        },
+        {
+            "question": "What is the correct way to handle exceptions in Python?",
+            "options": ["try-except", "catch-except", "try-finally"],
+            "answer": "try-except"
+        },
+        {
+            "question": "Which Python keyword is used to define a function?",
+            "options": ["def", "func", "function"],
+            "answer": "def"
+        }
+    ],
+    "DSA": [
+        {
+            "question": "Which of the following data structures is used to implement a queue?",
+            "options": ["Stack", "Linked List", "Array"],
+            "answer": "Linked List"
+        },
+        {
+            "question": "What is the time complexity of accessing an element by index in an array?",
+            "options": ["O(1)", "O(n)", "O(log n)"],
+            "answer": "O(1)"
+        },
+        {
+            "question": "In a binary tree, what is the maximum number of nodes at level l?",
+            "options": ["2^l", "2^(l-1)", "l^2"],
+            "answer": "2^l"
+        },
+        {
+            "question": "Which algorithm is commonly used for finding the shortest path in a weighted graph?",
+            "options": ["Merge Sort", "Dijkstra's Algorithm", "Bubble Sort"],
+            "answer": "Dijkstra's Algorithm"
+        },
+        {
+            "question": "Which of the following is a stable sorting algorithm?",
+            "options": ["Quick Sort", "Merge Sort", "Heap Sort"],
+            "answer": "Merge Sort"
+        }
+    ],
+    "DBMS": [
+        {
+            "question": "Which of the following is used to uniquely identify a record in a database table?",
+            "options": ["Primary Key", "Foreign Key", "Candidate Key"],
+            "answer": "Primary Key"
+        },
+        {
+            "question": "What is the purpose of the JOIN operation in SQL?",
+            "options": ["To delete data from a table", "To combine data from two or more tables", "To update a record in a table"],
+            "answer": "To combine data from two or more tables"
+        },
+        {
+            "question": "Which of the following is a property of the ACID test in database transactions?",
+            "options": ["Accountability", "Atomicity", "Availability"],
+            "answer": "Atomicity"
+        },
+        {
+            "question": "What does the SQL GROUP BY clause do?",
+            "options": ["Filters records based on conditions", "Combines rows that have the same values in specified columns", "Orders records in ascending or descending order"],
+            "answer": "Combines rows that have the same values in specified columns"
+        },
+        {
+            "question": "Which type of key is used to create a relationship between two tables in a relational database?",
+            "options": ["Foreign Key", "Candidate Key", "Super Key"],
+            "answer": "Foreign Key"
+        }
+    ]
+}
